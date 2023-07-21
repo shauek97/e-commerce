@@ -15,8 +15,9 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: $font-second;
+  color: $color-light;
   overflow-x: hidden;
+  background: $color-dark;
 }
 
 h1,

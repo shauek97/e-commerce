@@ -11,7 +11,7 @@ export default function Navbar() {
             <div className={styles.navbar}>
               <div className={styles.logoBox}>
                 <div className={styles.logo}>
-                  <h1> LOGO</h1>
+                <img src='https://i.postimg.cc/LXw4TCch/HIgh-level-shoes.png' border='0' alt='HIgh-level-shoes'/>
                 </div>
               </div>
               <Menu />
