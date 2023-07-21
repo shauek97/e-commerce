@@ -1,8 +1,8 @@
+import Header from '../../sections/Header/Header'
+
 function Home() {
   return (
-    <div>
-    
-    </div>
+   <Header />
   );
 }
 
