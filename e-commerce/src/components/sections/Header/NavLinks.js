@@ -1,5 +1,7 @@
 import styles from "./Header.module.scss";
 
+import { useState } from "react";
+
 
 export default function NavLinks(props) {
   return (
@@ -8,6 +10,7 @@ export default function NavLinks(props) {
     <h2>O nas</h2>
     <h2>O nas</h2>
     <h2>O nas</h2>
+
    </>
   );
 }
