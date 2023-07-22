@@ -70,6 +70,18 @@
   display: none;
 }
 
+.searchIcon{
+  display: flex;
+  align-items: center;
+  font-size: $base-size * 1.5;
+  color: $color-light;
+}
+
+.searchIcon:hover {
+  color: $color-cyan;
+  cursor: pointer;
+}
+
 @media (max-width: 992px) {
   .navbar {
     justify-content: start;
